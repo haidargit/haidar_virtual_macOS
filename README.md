@@ -1,4 +1,4 @@
-# playground-macos
+# Virtual macOS
 
 My portfolio website simulating macOS's GUI: https://portfolio.zxh.io
 
