@@ -13,4 +13,3 @@ You can contact me by:
 - Github: [@haidargit](https://github.com/haidargit)
 - Linkedin: [Muhammad Haidar Ali](https://www.linkedin.com/in/haidar1)
 - Blog: Coming Soon.
-
