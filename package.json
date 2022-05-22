@@ -10,7 +10,7 @@
     "prepare": "husky install",
     "serve": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "lint-staged": {
     "*.{js,ts,tsx}": "eslint --fix",
