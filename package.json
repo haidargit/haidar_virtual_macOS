@@ -8,6 +8,7 @@
     "lint": "eslint --ext .js,.ts,.tsx ./",
     "prepare": "husky install",
     "serve": "vite preview",
+    "predeploy": "npm run build"
   },
   "lint-staged": {
     "*.{js,ts,tsx}": "eslint --fix",
