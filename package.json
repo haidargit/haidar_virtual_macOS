@@ -2,12 +2,15 @@
   "name": "haidarvirtual-macos",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://haidargit.github.io/haidar_virtual_macOS/",
   "scripts": {
     "build": "tsc && vite build",
     "dev": "vite",
     "lint": "eslint --ext .js,.ts,.tsx ./",
     "prepare": "husky install",
-    "serve": "vite preview"
+    "serve": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "lint-staged": {
     "*.{js,ts,tsx}": "eslint --fix",
@@ -45,6 +48,7 @@
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-react": "^7.28.0",
+    "gh-pages": "^4.0.0",
     "husky": "^7.0.4",
     "lint-staged": "^11.2.6",
     "postcss": "^8.4.5",
