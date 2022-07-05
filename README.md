@@ -1,8 +1,8 @@
 # Virtual macOS
 
-A mini web app that simulates macOS's GUI: https://haidarvirtualmacos.netlify.app/
+A mini web app that simulates macOS GUI: https://haidarvirtualmacos.netlify.app/
 
-Powered by [React](https://reactjs.org/) + [React Redux](https://react-redux.js.org/) + [Tailwind CSS](https://tailwindcss.com/) + [TypeScript](https://www.typescriptlang.org/) + [Vite](https://vitejs.dev/).
+Technology/Framework used: [React](https://reactjs.org/) + [React Redux](https://react-redux.js.org/) + [Tailwind CSS](https://tailwindcss.com/) + [TypeScript](https://www.typescriptlang.org/) + [Vite](https://vitejs.dev/).
 
 
 &nbsp;
